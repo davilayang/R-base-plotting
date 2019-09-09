@@ -12,17 +12,17 @@ require HistData
 ## Coorelation Charts
 
 + Hexagon Heatmap
-![](./Coorelation-Charts/Hexagon Heatmap.svg)
++ ![hhmap](./Coorelation-Charts/Hexagon Heatmap.svg)
 
 ## Evolution Charts
 
 + Stacked Area Chart, w/ curved axis
-![](./Evolution-Charts/Stacked Area Chart.svg)
++ ![area](./Evolution-Charts/Stacked Area Chart.svg)
 
 ## Other Charts
 
 + Square Matrix Chart
-![](./Other-Charts/Square Matrix Chart.svg)
++ ![matrix](./Other-Charts/Square Matrix Chart.svg)
 
 ## References
 
