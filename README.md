@@ -1,4 +1,4 @@
-# R-base-plotting
+# R Base Plotting
 
 Plot charts using R base plotting functions.  
 A good method to understand charts.  
@@ -9,25 +9,20 @@ Using data from R package `HistData`.
 require HistData
 ```
 
-## 01, Distribution Charts
-
-## 02, Coorelation Charts
+## Coorelation Charts
 
 + Hexagon Heatmap
++ ![](./Coorelation-Charts/Hexagon Heatmap.svg)
 
-## 03, Rankings Charts
-
-## 04, Part of a Whole Charts
-
-## 05, Evolution Charts
+## Evolution Charts
 
 + Stacked Area Chart, w/ curved axis
++ ![](./Evolution-Charts/Stacked Area Chart.svg)
 
-## 06, Flow Charts
-
-## 07, Other Charts
+## Other Charts
 
 + Square Matrix Chart
++ ![](./Other-Charts/Square Matrix Chart.svg)
 
 ## References
 
